@@ -94,7 +94,7 @@ function App() {
   return (
     <div className="min-h-screen flex items-center justify-center p-4"
       style={{
-        backgroundImage: 'url(./public/bg.jpg)',
+        backgroundImage: 'url(/bg.jpg)',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backdropFilter: 'blur(10px)',
