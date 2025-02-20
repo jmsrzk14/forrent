@@ -33,7 +33,7 @@ export const cards: Card[] = [
     id: 7,
     text: "Jadi aku ambil keputusan kalo aku akan melanjutkan ini ren",
     image: "/rent.jpg",
-    music: "//public/lsncut.mp3"
+    music: "/lsncut.mp3"
   },
   {
     id: 8,
