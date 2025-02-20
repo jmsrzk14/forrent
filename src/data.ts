@@ -77,4 +77,4 @@ export const cards: Card[] = [
   },
 ];
 
-export const initialMusic = "./public/scus.mp3";
+export const initialMusic = "/scus.mp3";
